@@ -16,7 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
- [`alt`](https://res.cloudinary.com/dyv3dluov/image/upload/fl_preserve_transparency/v1724185986/book-store-clone-nextjs14.netlify.app__sejoha.jpg?_s=public-apps) 
+  ![Alt text](https://res.cloudinary.com/dyv3dluov/image/upload/fl_preserve_transparency/v1724185986/book-store-clone-nextjs14.netlify.app__sejoha.jpg?_s=public-apps) 
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
